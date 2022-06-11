@@ -204,8 +204,8 @@ async def play(_, message: Message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("• كروب الدعم •", url=f"https://t.me/{SUPPORT_GROUP}"),
-                    InlineKeyboardButton("• قناة البوت •", url=f"https://t.me/VFF35")
+                    InlineKeyboardButton("• للدعم •", url=f"https://t.me/{SUPPORT_GROUP}"),
+                    InlineKeyboardButton("• قناة البوت •", url=f"https://t.me/N_B_10")
                 ],
                 [InlineKeyboardButton("» اخفاء الكليشه «", callback_data="close_play")
                 ],
@@ -229,8 +229,8 @@ async def play(_, message: Message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("• كروب الدعم •", url=f"https://t.me/{SUPPORT_GROUP}"),
-                    InlineKeyboardButton("• قناة البوت •", url=f"https://t.me/VFF35")
+                    InlineKeyboardButton("• للدعم •", url=f"https://t.me/{SUPPORT_GROUP}"),
+                    InlineKeyboardButton("• قناة البوت •", url=f"https://t.me/N_B_10")
                 ],
                 [InlineKeyboardButton("» اخفاء الكليشه «", callback_data="close_play")
                 ],
