@@ -14,7 +14,7 @@ async def start_(client: Client, message: Message):
         caption=f"""**━━━━━━━━━━━━━━━━━━
  هلا بك انا بوت يمكنني تشغيل الاغاني في المكالمه
 اضغط على زر الاوامر لمعرفة طريقة التشغيل 
-تم اصدار هذا البوت من قبل(t.me/N_B_1)...
+تم اصدار هذا البوت[من قبل انس](t.me/N_B_1)...
 ━━━━━━━━━━━━━━━━━━**""",
     reply_markup=InlineKeyboardMarkup(
             [
@@ -27,7 +27,7 @@ async def start_(client: Client, message: Message):
                         "• قناة البوت •", url=f"https://t.me/N_B_10"
                     ),
                     InlineKeyboardButton(
-                        "• كروب الدعم •", url=f"https://t.me/{SUPPORT_GROUP}"
+                        "• للدعم •", url=f"https://t.me/{SUPPORT_GROUP}"
                     )
                 ],[
                     InlineKeyboardButton(
