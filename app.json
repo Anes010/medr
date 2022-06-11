@@ -35,17 +35,17 @@
     "OWNER_USERNAME": {
       "description": "معرفك كمطور البوت بدون @",
       "required": false,
-      "value": "QABNADLIB"
+      "value": "N_B_1"
     },
     "SUPPORT_GROUP": {
       "description": "معرف كروبك بدون @",
       "required": false,
-      "value": "faqek"
+      "value": "N_B_1"
     },
     "SUDO_USERS": {
       "description": "ضع ايديك ياغالي.",
       "required": true,
-      "value": ""
+      "value": "5341342370"
     },
     "START_IMG": {
       "description": "ضع صورة البوت",
